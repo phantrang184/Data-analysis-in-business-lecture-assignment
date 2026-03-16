@@ -1,6 +1,7 @@
 # Data-analysis-in-business-lecture-assignment
 Data analysis lecture: Mainly about Basic methods in business data analysis, including descriptive, predictive, and prescriptive analytics.
-1.** Factors affect clothing stores profit:**
+## 1. Factors affect clothing stores profit:
+
 a. Executive Summary:
 The analysis evaluates a dataset of 400 clothing stores to identify the drivers of total sales (tsales) and optimize operational efficiency. Key variables include store size, labor hours, and margin.
 b. Key Analytical Insights:
