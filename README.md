@@ -11,8 +11,11 @@ b. Key Analytical Insights:
 --> Labor hours are the strongest predictors of revenue, but high VIF (Multicollinearity) scores suggest these variables are deeply interconnected.
 
 - Inventory Optimization (ABC Analysis):
+
   Group A (20% items, 80% revenue): Focus on tight forecasting and rapid replenishment.
+
   Group B (30% items, 25% revenue): Moderate monitoring.
+
   Group C (50% items, 10% revenue): Liquidate or transfer these items to avoid high holding costs.
 
 - Store Size Efficiency: The optimal store size is identified between 150-350 m². Beyond this, the incremental cost of rent may diminish overall profitability unless sales per square meter increase proportionally.
